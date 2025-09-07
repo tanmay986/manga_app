@@ -1,16 +1,1 @@
-# scroll_manga
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+This project is a Manga Reader App built with Flutter and Dart. It allows users to browse, search, and read manga with a smooth and user-friendly interface. The app supports features like categorized sections, detailed manga pages, chapter navigation, and notifications for the latest releases. Data is managed through CSV integration, making it lightweight and easy to update. The goal of this project is to provide manga readers with a simple, accessible, and enjoyable reading experience.
